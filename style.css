@@ -147,3 +147,22 @@ moz-transition: all .4s ease-in-out;
 -webkit-transition: all .4s ease-in-out;
 transition: all .4s ease-in-out;
 }
+#reBtn{
+    font-size: 20px;
+color: #fff;
+background-size: 300% 100%;
+background-image: linear-gradient(to right, #009245, #FCEE21, #00A8C5, #D9E021);
+    box-shadow: 0 4px 15px 0 rgba(83, 176, 57, 0.75);
+border-radius: 50px;
+moz-transition: all .4s ease-in-out;
+-o-transition: all .4s ease-in-out;
+-webkit-transition: all .4s ease-in-out;
+transition: all .4s ease-in-out;
+}
+#reBtn:hover{
+background-position: 100% 0;
+moz-transition: all .4s ease-in-out;
+-o-transition: all .4s ease-in-out;
+-webkit-transition: all .4s ease-in-out;
+transition: all .4s ease-in-out;
+}
