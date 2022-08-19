@@ -151,8 +151,8 @@ transition: all .4s ease-in-out;
     font-size: 20px;
 color: #fff;
 background-size: 300% 100%;
-background-image: linear-gradient(to right, #009245, #FCEE21, #00A8C5, #D9E021);
-    box-shadow: 0 4px 15px 0 rgba(83, 176, 57, 0.75);
+background-image: linear-gradient(to right, #ed6ea0, #ec8c69, #f7186a , #FBB03B);
+box-shadow: 0 4px 15px 0 rgba(236, 116, 149, 0.75);
 border-radius: 50px;
 moz-transition: all .4s ease-in-out;
 -o-transition: all .4s ease-in-out;
@@ -165,4 +165,7 @@ moz-transition: all .4s ease-in-out;
 -o-transition: all .4s ease-in-out;
 -webkit-transition: all .4s ease-in-out;
 transition: all .4s ease-in-out;
+}
+.remBtn{
+    display: none;
 }
